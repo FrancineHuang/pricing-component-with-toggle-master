@@ -13,10 +13,9 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - Control the toggle with both their mouse/trackpad and their keyboard
 
-### Links
+### Screen Recording
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+https://github.com/FrancineHuang/pricing-component-with-toggle-master/assets/105546843/da4a9391-416e-4163-9a17-61fea1caa9f9
 
 ## My process
 My working order will be like:
@@ -88,8 +87,6 @@ checkBox.addEventListener('change', function() {
     }
 })
 ```
-
-
 
 ### Continued development
 
